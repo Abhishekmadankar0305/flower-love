@@ -25,7 +25,7 @@
 ## 🚀 Installation  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/aoudumber-bade/she-likes-flowers.git
+   git clone https://github.com/Abhishekmadankar0305/flower-love.git
    ```
 2. Open in browser:  
    ```bash
@@ -56,5 +56,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-**Made something sweet with this code? Tag me on [Instagram]()!**  
+**Made something sweet with this code? Tag me on [Instagram](https://www.instagram.com/_.abhishek._0305?igsh=MXRmNzJ6bXYycTloaQ==)!**  
 **⭐ Star this repo if you’d code for someone special!**
